@@ -3,4 +3,4 @@ Deep Learning for NLP.
 Named Entity Recognition
 
 
-Download word embeddings [here https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html#sphx-glr-beginner-nlp-sequence-models-tutorial-py], extract and put it to **./data/** to run the noutbook.
+Download word embeddings [here](http://neuroner.com/data/word_vectors/glove.6B.100d.zip), extract and put it to **./data/** to run the noutbook.
